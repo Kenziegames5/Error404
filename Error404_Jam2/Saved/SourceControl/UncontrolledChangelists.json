@@ -5,7 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2N/XWEBNOYZ7JA5DZOPBGZ71S.uasset"
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2N/XWEBNOYZ7JA5DZOPBGZ71S.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/DialogueBPs/BP_Interact.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/DialogueBPs/BP_DialogueComponent.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/Input/IMC_Default.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/DialogueBPs/DialogueDataTable.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/DialogueBPs/Dialogue.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/DialogueBPs/BP_NPC.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/DialogueBPs/DialogueStructure.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/DY/2YAKTCWC5E807E2IN01071.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/DialogueBPs/WB_Dialogue.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/DialogueFont.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/SpaceMono-Regular.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/T8/5J9S2EY986TJKSMBZC0YFE.uasset",
+				"C:/Users/2303152/OneDrive - Abertay University/Documents/GitHub/Error404/Error404_Jam2/Content/DialogueBPs/DialogueDataTable1.uasset"
 			]
 		}
 	]
