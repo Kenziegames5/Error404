@@ -1,7 +1,6 @@
-[4796:29744:1113/131742.628:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4796:30748:1113/131742.702:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4796:29744:1113/131742.708:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23460:29208:1113/131747.256:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E3E9BA7D3075FC1ED56222DDE9512BF0 will be ignored
-[4796:18244:1113/142011.215:ERROR:dns_config_service.cc(273)] DNS config watch failed.
-[22992:28616:1113/142011.215:ERROR:dns_config_service.cc(273)] DNS config watch failed.
-[4796:29744:1113/171440.510:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[11576:14732:1120/120132.210:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11576:26040:1120/120132.281:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11576:14732:1120/120132.293:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23600:17880:1120/120138.827:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-17DF28C89B94BC8E892BACA3ED9201E0 will be ignored
+[11576:24696:1120/120516.230:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[30648:17736:1120/120516.230:ERROR:dns_config_service.cc(273)] DNS config watch failed.
