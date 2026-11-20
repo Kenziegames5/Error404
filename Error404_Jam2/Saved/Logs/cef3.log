@@ -1,6 +1,73 @@
-[11576:14732:1120/120132.210:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11576:26040:1120/120132.281:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[11576:14732:1120/120132.293:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[23600:17880:1120/120138.827:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-17DF28C89B94BC8E892BACA3ED9201E0 will be ignored
-[11576:24696:1120/120516.230:ERROR:dns_config_service.cc(273)] DNS config watch failed.
-[30648:17736:1120/120516.230:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[32188:18296:1120/133830.858:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[32188:16608:1120/133830.927:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[32188:18296:1120/133830.936:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23752:21752:1120/133835.356:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-EF6B86B405B571C25AA10F26180292FC will be ignored
+[18828:20176:1120/133836.529:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18828:22772:1120/133836.554:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18828:22772:1120/133836.554:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18828:22772:1120/133836.555:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21428:19532:1120/133836.696:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[21428:19532:1120/133836.696:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[21428:19532:1120/133836.696:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[21428:19532:1120/133836.703:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[21428:19532:1120/133836.703:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[21428:19532:1120/133836.703:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[18828:22772:1120/133836.703:WARNING:stun_port.cc(442)] Port[177f400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21428:19532:1120/133836.703:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[18828:22772:1120/133836.703:WARNING:stun_port.cc(442)] Port[1a40800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18828:22772:1120/133836.703:WARNING:stun_port.cc(442)] Port[1a41000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21428:19532:1120/133836.703:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[21428:19532:1120/133836.703:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[21428:19532:1120/133836.703:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[21428:19532:1120/133836.703:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[18828:22772:1120/133836.703:WARNING:stun_port.cc(442)] Port[177f400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21428:19532:1120/133836.703:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[18828:22772:1120/133836.703:WARNING:stun_port.cc(442)] Port[1a40800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18828:22772:1120/133836.704:WARNING:stun_port.cc(442)] Port[1a41000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18828:22772:1120/133836.704:WARNING:stun_port.cc(442)] Port[177f400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18828:22772:1120/133836.704:WARNING:stun_port.cc(442)] Port[1a40800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18828:22772:1120/133836.704:WARNING:stun_port.cc(442)] Port[1a41000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[32188:27288:1120/133837.730:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[32188:18296:1120/133837.851:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[32188:18296:1120/133837.851:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[32188:18296:1120/133837.851:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[32188:18296:1120/133837.851:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[32188:27288:1120/133837.862:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[23844:27640:1120/133837.983:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23844:9440:1120/133838.026:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23844:9440:1120/133838.026:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[23844:9440:1120/133838.026:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21428:19532:1120/133838.047:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[21428:19532:1120/133838.047:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[21428:19532:1120/133838.047:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[21428:19532:1120/133838.047:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[21428:19532:1120/133838.047:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[21428:19532:1120/133838.047:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[21428:19532:1120/133838.047:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[21428:19532:1120/133838.047:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[21428:19532:1120/133838.047:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[21428:19532:1120/133838.049:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[21428:19532:1120/133838.049:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[21428:19532:1120/133838.049:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[23844:9440:1120/133838.052:WARNING:stun_port.cc(442)] Port[1af1c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23844:9440:1120/133838.053:WARNING:stun_port.cc(442)] Port[1af2400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23844:9440:1120/133838.053:WARNING:stun_port.cc(442)] Port[1af2c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23844:9440:1120/133838.053:WARNING:stun_port.cc(442)] Port[1af1c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23844:9440:1120/133838.053:WARNING:stun_port.cc(442)] Port[1af2400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23844:9440:1120/133838.053:WARNING:stun_port.cc(442)] Port[1af2c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23844:9440:1120/133838.053:WARNING:stun_port.cc(442)] Port[1af1c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23844:9440:1120/133838.053:WARNING:stun_port.cc(442)] Port[1af2400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23844:9440:1120/133838.053:WARNING:stun_port.cc(442)] Port[1af2c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23844:27640:1120/133839.742:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18828:19892:1120/134044.784:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-89FCDAD1D50C33864CD0D79418CA2EC5 will be ignored
+[16108:18448:1120/134044.868:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[16108:18448:1120/134044.868:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[21428:17012:1120/143951.028:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[32188:5992:1120/143951.028:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[32188:29176:1120/162604.718:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21428:17012:1120/162604.749:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[32188:16608:1120/162656.390:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21428:17012:1120/162656.405:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21428:17012:1120/162657.954:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[32188:29176:1120/162657.955:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[32188:18296:1120/180123.597:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
