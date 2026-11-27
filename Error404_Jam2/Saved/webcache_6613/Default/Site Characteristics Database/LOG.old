@@ -1,3 +1,6 @@
-2026/11/27-12:53:25.238 7168 Reusing MANIFEST C:\Users\2303152\OneDrive - Abertay University\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/11/27-12:53:25.247 7168 Recovering log #3
-2026/11/27-12:53:25.249 7168 Reusing old log C:\Users\2303152\OneDrive - Abertay University\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+2026/11/27-14:44:23.456 54ec Log #6: 1 ops saved to Table #7 OK
+2026/11/27-14:44:23.459 54ec Archiving C:\Users\2301876\OneDrive - Abertay University\Documents\Error404\Error404_Jam2\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/11/27-14:44:23.463 54ec Table #4: 4 entries OK
+2026/11/27-14:44:23.464 54ec Table #7: 1 entries OK
+2026/11/27-14:44:23.481 54ec Archiving C:\Users\2301876\OneDrive - Abertay University\Documents\Error404\Error404_Jam2\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/11/27-14:44:23.507 54ec **** Repaired leveldb C:\Users\2301876\OneDrive - Abertay University\Documents\Error404\Error404_Jam2\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 398 bytes. Some data may have been lost. ****
