@@ -1,2 +1,5 @@
-2026/11/13-14:17:48.257 6fd8 Creating DB C:\Users\2303152\OneDrive - Abertay University\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths since it was missing.
-2026/11/13-14:17:48.267 6fd8 Reusing MANIFEST C:\Users\2303152\OneDrive - Abertay University\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001
+2026/11/27-17:19:40.845 364c Log #3: 8 ops saved to Table #4 OK
+2026/11/27-17:19:40.846 364c Archiving C:\Users\2301876\OneDrive - Abertay University\Documents\Error404\Error404_Jam2\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/000003.log: OK
+2026/11/27-17:19:40.847 364c Table #4: 8 entries OK
+2026/11/27-17:19:40.849 364c Archiving C:\Users\2301876\OneDrive - Abertay University\Documents\Error404\Error404_Jam2\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: OK
+2026/11/27-17:19:40.857 364c **** Repaired leveldb C:\Users\2301876\OneDrive - Abertay University\Documents\Error404\Error404_Jam2\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths; recovered 1 files; 275 bytes. Some data may have been lost. ****
