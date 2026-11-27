@@ -1,3 +1,6 @@
-2026/11/27-14:26:40.127 6730 Reusing MANIFEST C:\Uni Year 3\Des315\Galactic_Garage_Dare\Error404\Error404_Jam2\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/11/27-14:26:40.145 6730 Recovering log #3
-2026/11/27-14:26:40.147 6730 Reusing old log C:\Uni Year 3\Des315\Galactic_Garage_Dare\Error404\Error404_Jam2\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/11/27-15:16:43.419 6870 Reusing MANIFEST C:\Users\2300878\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/27-15:16:43.429 6870 Recovering log #3
+2026/11/27-15:16:43.437 6870 Reusing old log C:\Users\2300878\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/11/27-17:46:32.130 5360 Level-0 table #5: started
+2026/11/27-17:46:32.139 5360 Level-0 table #5: 71047 bytes OK
+2026/11/27-17:46:32.141 5360 Delete type=0 #3

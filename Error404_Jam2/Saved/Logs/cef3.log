@@ -1,12 +1,55 @@
-[4212:25444:1127/142639.990:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4212:12236:1127/142640.029:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4212:25444:1127/142640.061:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[4212:24796:1127/142643.553:WARNING:leveldb_database.cc(141)] Unable to open C:\Uni Year 3\Des315\Galactic_Garage_Dare\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Uni Year 3\Des315\Galactic_Garage_Dare\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4212:24796:1127/142643.556:WARNING:leveldb_database.cc(141)] Unable to open C:\Uni Year 3\Des315\Galactic_Garage_Dare\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Uni Year 3\Des315\Galactic_Garage_Dare\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4212:24796:1127/142643.560:WARNING:leveldb_database.cc(141)] Unable to open C:\Uni Year 3\Des315\Galactic_Garage_Dare\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Uni Year 3\Des315\Galactic_Garage_Dare\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4212:24796:1127/142643.562:WARNING:leveldb_database.cc(141)] Unable to open C:\Uni Year 3\Des315\Galactic_Garage_Dare\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Uni Year 3\Des315\Galactic_Garage_Dare\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4212:1144:1127/142643.963:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4212:1144:1127/142643.965:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4212:25444:1127/142645.577:ERROR:device_event_log_impl.cc(196)] [14:26:45.240] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[6184:16496:1127/142645.915:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6275759D1DEAC212FCC7C55E155B764C will be ignored
-[4212:25444:1127/142830.151:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[26856:1464:1127/151643.136:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26856:27472:1127/151643.200:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[26856:1464:1127/151643.206:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26856:26180:1127/151646.009:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\2300878\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\2300878\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26856:26180:1127/151646.016:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\2300878\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\2300878\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26856:26180:1127/151646.021:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\2300878\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\2300878\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26856:26180:1127/151646.027:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\2300878\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\2300878\Documents\GitHub\Error404\Error404_Jam2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26856:22928:1127/151646.302:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26856:22928:1127/151646.310:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17856:26320:1127/151649.028:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D3014F76BE1F8352058CD8D226A1066D will be ignored
+[26856:19640:1127/162608.241:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[19240:18932:1127/162608.241:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[30704:29348:1127/165433.115:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-CD86B5C5E5B9F1B5A6CFC955FFE55F1E will be ignored
+[19148:26444:1127/165454.021:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[26856:11408:1127/165454.061:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,11]
+[19148:18444:1127/165454.118:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[26856:1464:1127/165454.179:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,11]
+[26856:1464:1127/165454.179:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,11]
+[26856:1464:1127/165454.179:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,11]
+[26856:1464:1127/165454.179:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,11]
+[26856:1464:1127/165454.180:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,14]
+[26856:1464:1127/165454.180:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,14]
+[26856:1464:1127/165454.180:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,14]
+[26856:1464:1127/165454.180:WARNING:browser_info.cc(345)] Returning a speculative frame for [11,14]
+[19148:26444:1127/165454.454:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[19148:6664:1127/165454.544:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[26856:1464:1127/165455.779:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[26856:1464:1127/165455.779:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[19148:23852:1127/165701.682:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[17240:15036:1127/172941.242:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame C-93EF416E83201F2CC448C6926D963984 will be ignored
+[26856:11408:1127/173025.576:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,10]
+[26856:1464:1127/173025.584:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,10]
+[26856:1464:1127/173025.584:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,10]
+[26856:1464:1127/173025.584:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,10]
+[26856:1464:1127/173025.584:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,10]
+[26856:1464:1127/173025.585:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,13]
+[26856:1464:1127/173025.585:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,13]
+[26856:1464:1127/173025.585:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,13]
+[26856:1464:1127/173025.585:WARNING:browser_info.cc(345)] Returning a speculative frame for [17,13]
+[26856:1464:1127/173026.193:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[26856:1464:1127/173026.193:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[16192:31016:1127/174626.870:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 12-2D258FCB876A7A85D0F1E694DF05298C will be ignored
+[26856:1464:1127/180917.459:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
